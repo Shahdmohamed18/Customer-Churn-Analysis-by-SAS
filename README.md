@@ -20,8 +20,3 @@ Brief description of the dataset.
 - Data Preprocessing
 - Logistic Regression Model
 - Model Evaluation
-
-
-
-
-(الصور هنا
