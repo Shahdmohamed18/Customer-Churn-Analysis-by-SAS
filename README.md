@@ -21,6 +21,7 @@ Brief description of the dataset.
 - Logistic Regression Model
 - Model Evaluation
 
-## Visualizations
+
+
 
 (الصور هنا
